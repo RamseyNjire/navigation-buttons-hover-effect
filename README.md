@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+I loved the original tutorial, and definitely learned a lot from it. I made a few changes as a .
 
 ## Built With
 
