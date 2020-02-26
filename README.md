@@ -1,63 +1,28 @@
 # Project Name
 
-> One paragraph statement about the project.
+> This project is a code-along of Dark Code's [Youtube tutorial](https://www.youtube.com/watch?v=SmFiEW_O8L8&list=PL_t969ALyXznbLyI7LDN7WHmZxAf3nILA).
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/RamseyNjire/navigation-buttons-hover-effect/blob/development/app_screenshot.PNG)
 
-Additional description about the project and its features.
+I loved the original tutorial, and definitely learned a lot from it. I made a few changes as a matter of preference. The navbar was a ul, rather than a div, while the background color and the shapes of the links are different. Other than that, it's largely inspired by Dark Code's tutorial. I loved working on it a lot and I hope anyone who checks it out will too!
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML 5,
+- CSS3,
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Ramsey Njire**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+- Github: [@RamseyNjire](https://github.com/RamseyNjire/old-apple-site-clone)
+- Twitter: [@untakenramram](https://twitter.com/untakenramram)
+- Linkedin: [Ramsey Njire](https://www.linkedin.com/in/ramsey-njire-51984931/)
 
 ## Show your support
 
@@ -65,9 +30,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Dark Code Tutorial](https://www.youtube.com/watch?v=SmFiEW_O8L8&list=PL_t969ALyXznbLyI7LDN7WHmZxAf3nILA)
 
 ## 📝 License
 
