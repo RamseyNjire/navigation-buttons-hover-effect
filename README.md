@@ -2,9 +2,9 @@
 
 > This project is a code-along of Dark Code's [Youtube tutorial](https://www.youtube.com/watch?v=SmFiEW_O8L8&list=PL_t969ALyXznbLyI7LDN7WHmZxAf3nILA).
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/RamseyNjire/navigation-buttons-hover-effect/blob/development/app_screenshot.PNG)
 
-I loved the original tutorial, and definitely learned a lot from it. I made a few changes as a matter of preference. The navbar was a <ul>, rather than a <div>, while the background color and the shapes of the links are different. Other than that, it's largely inspired by Dark Code's tutorial. I loved working on it a lot and I hope anyone who checks it out will too!
+I loved the original tutorial, and definitely learned a lot from it. I made a few changes as a matter of preference. The navbar was a ul, rather than a div, while the background color and the shapes of the links are different. Other than that, it's largely inspired by Dark Code's tutorial. I loved working on it a lot and I hope anyone who checks it out will too!
 
 ## Built With
 
