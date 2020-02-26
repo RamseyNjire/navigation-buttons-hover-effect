@@ -1,6 +1,6 @@
 # Project Name
 
-> One paragraph statement about the project.
+> This project is a code-along of Dark Code's [Youtube tutorial](https://www.youtube.com/watch?v=SmFiEW_O8L8&list=PL_t969ALyXznbLyI7LDN7WHmZxAf3nILA).
 
 ![screenshot](./app_screenshot.png)
 
