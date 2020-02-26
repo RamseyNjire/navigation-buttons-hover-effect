@@ -13,7 +13,9 @@ I loved the original tutorial, and definitely learned a lot from it. I made a fe
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/RamseyNjire/navigation-buttons-hover-effect/13821482699dea960cf3b6d3262472d525ebd159/index.html)
+
+And here's a [Production Demo Link](https://raw.githack.com/RamseyNjire/navigation-buttons-hover-effect/master/index.html) in case I make changes in the future and anyone wants to see them.
 
 
 ## Authors
